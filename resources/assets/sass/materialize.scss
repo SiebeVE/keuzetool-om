@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+// Mixins
+// @import "components/prefixer";
+@import "components/mixins";
+@import "components/color";
+
+// Variables;
+@import "components/variables";
+
+// components
+@import "components/global";
+//@import "components/modal";
+@import "components/forms/forms";
+@import "components/slider";
+@import "components/date_picker/default";
+@import "components/date_picker/default.date";
+@import "components/date_picker/default.time";
